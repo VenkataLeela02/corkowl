@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+<h1><a name="Installation">Installation</a></h1>
+•	Fork or directly clone this repository to your local machine<br />
+•	Use the npm install command to install dependencies<br />
+•	Once the dependencies are finished installing, use the npm start command inside the root directory to open the app in your local browser of choice<br />
+
+
 In the project directory, you can run:
 
 ### `npm start`
