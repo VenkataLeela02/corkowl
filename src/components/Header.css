@@ -1,0 +1,126 @@
+.App-header {
+    background-color: #811434;
+    height: 65px;
+    display: flex;
+    flex-direction: col;
+    color: white;
+  }
+  
+  .App-header a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  .nav-links {
+    list-style: none;
+    margin-left: auto;
+    float: left;
+  }
+
+  .brand {
+    margin-left: 10px;
+    margin-top: 15px;
+    cursor: pointer;
+  }
+
+  .owl {
+    letter-spacing: 5px;
+    font-size: 25px;
+  }
+
+  .search {
+    position: absolute;
+    float: right;
+    margin-left:15%;
+    top: 4%;
+    left: 5%;
+    width: 200px;
+    height: auto;
+    cursor: pointer;
+  }
+
+  .searchButton {
+    position: absolute;
+    float: right;
+    top: 4%;
+    left: 18%;
+    cursor: pointer;
+  }
+  
+  .nav-links li a {
+    color:  black;
+    transition: all 0.3s ease 0s;
+  }
+  
+  .nav-links li a:hover {
+    color: #0088a9;
+  }
+  
+  .nav-links img {
+    height: auto;
+    width: 20px;
+    margin-right: 5px;
+    float: left;
+  }
+  
+  .nav-links i {
+    margin-right: 5px;
+  }
+  
+  .nav-links i:hover {
+    color: #0088a9;
+  }
+  
+  .nav-link {
+    margin: auto;
+  }
+  
+  .navbar {
+    background-color: #811434;
+    min-height: 56px;
+    display: flex;
+    flex-direction: col;
+    color: white;
+  }
+  
+  .dropdown {
+    position: absolute;
+    right: 3%;
+    top: 5%;
+    float: right;
+    width: 30%;
+    height: auto;
+    background-color:#811434;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+
+  .dropdownMenu {
+    color:#EF4859;
+    background-color: #811434;
+    box-shadow: 4px grey;
+    border-radius: 4px;
+    width: 25%;
+    text-align: center;
+  }
+
+  .dropdownItems {
+    color:#EF4859;
+    text-align: center;
+  }
+
+  .bell {
+    position: absolute;
+    right: 12%;
+    top: 4%;
+    float: right;
+    width: 4%;
+    height:4%;
+  }
+  
